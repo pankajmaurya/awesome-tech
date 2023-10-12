@@ -4,6 +4,7 @@
 - https://github.com/apache/groovy
 - https://github.com/samskivert/jmustache
 - https://github.com/square/javapoet
+- https://github.com/hibernate/hibernate-tools (also added to misc)
 
 ## awesome-databases
 - https://github.com/surrealdb/surrealdb
@@ -35,6 +36,7 @@
 - https://github.com/puniverse/quasar (fibers channels and actors for the jvm)
 - https://github.com/alexandru-dinu/igcc (interactive c/c++)
 - https://github.com/pankajmaurya/reair
+- https://github.com/hibernate/hibernate-tools
 
 
 ## just bookmarking

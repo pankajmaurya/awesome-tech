@@ -5,6 +5,7 @@
 - https://github.com/samskivert/jmustache
 - https://github.com/square/javapoet
 - https://github.com/hibernate/hibernate-tools (also added to misc)
+- https://github.com/OpenAPITools/openapi-generator
 
 ## awesome-databases
 - https://github.com/surrealdb/surrealdb

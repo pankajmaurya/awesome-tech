@@ -36,7 +36,7 @@
 - https://github.com/jorinvo/edn-data (edn parser and generator which works with plain js, ts, node streams)
 - https://github.com/puniverse/quasar (fibers channels and actors for the jvm)
 - https://github.com/alexandru-dinu/igcc (interactive c/c++)
-- https://github.com/pankajmaurya/reair
+- https://github.com/airbnb/reair
 - https://github.com/hibernate/hibernate-tools
 - https://github.com/microsoft/vscode-languageserver-node
 - https://github.com/SimGus/chrome-extension-v3-starter

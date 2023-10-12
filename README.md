@@ -38,7 +38,7 @@
 - https://github.com/alexandru-dinu/igcc (interactive c/c++)
 - https://github.com/pankajmaurya/reair
 - https://github.com/hibernate/hibernate-tools
-
+- https://github.com/microsoft/vscode-languageserver-node
 
 ## just bookmarking
 - https://github.com/openjdk/jdk

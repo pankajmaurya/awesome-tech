@@ -9,17 +9,22 @@
 - https://github.com/square/javapoet
 
 ## awesome-databases
-- https://github.com/pankajmaurya/surrealdb
+- https://github.com/pankajmaurya/surrealdb (del)
+- https://github.com/surrealdb/surrealdb
 
 ## awesome-messaging
-- https://github.com/pankajmaurya/centrifugo
+- https://github.com/pankajmaurya/centrifugo (del)
+- https://github.com/centrifugal/centrifugo
 
 ## awesome web frameworks
-- https://github.com/pankajmaurya/drogon-cpp-web-framework
+- https://github.com/pankajmaurya/drogon-cpp-web-framework (del)
+- https://github.com/drogonframework/drogon
 
 ## awesome frontends
-- https://github.com/pankajmaurya/bootstrap
-- https://github.com/pankajmaurya/react-admin
+- https://github.com/pankajmaurya/bootstrap (del)
+- https://github.com/twbs/bootstrap
+- https://github.com/pankajmaurya/react-admin (del)
+- https://github.com/marmelab/react-admin
 
 ## awesome microservices
 - https://github.com/pankajmaurya/jhipster-lite

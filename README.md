@@ -7,6 +7,7 @@
 
 ## awesome-databases
 - https://github.com/surrealdb/surrealdb
+- https://github.com/edgedb/edgedb-java (java client for edge db)
 
 ## awesome-messaging
 - https://github.com/centrifugal/centrifugo
@@ -27,14 +28,14 @@
 - https://github.com/netty/netty
 
 ## awesome misc tech
-- https://github.com/pankajmaurya/jmh (performance benchmarking)
-- https://github.com/pankajmaurya/pytorch (deep learning)
-- https://github.com/pankajmaurya/just-js (very small js runtime for linux only)
-- https://github.com/pankajmaurya/edn-data
-- https://github.com/pankajmaurya/quasar 
-- https://github.com/pankajmaurya/igcc (interactive c/c++)
+- https://github.com/openjdk/jmh (performance benchmarking)
+- https://github.com/pytorch/pytorch (deep learning)
+- https://github.com/just-js/just (very small js runtime for linux only)
+- https://github.com/jorinvo/edn-data (edn parser and generator which works with plain js, ts, node streams)
+- https://github.com/puniverse/quasar (fibers channels and actors for the jvm)
+- https://github.com/alexandru-dinu/igcc (interactive c/c++)
 - https://github.com/pankajmaurya/reair
-- https://github.com/pankajmaurya/edgedb-java
+
 
 ## just bookmarking
 - https://github.com/pankajmaurya/jdk

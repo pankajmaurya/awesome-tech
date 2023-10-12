@@ -1,9 +1,12 @@
 # awesome-tech
 
 ## awesome coding
-- https://github.com/pankajmaurya/groovy
-- https://github.com/pankajmaurya/jmustache
-- https://github.com/pankajmaurya/javapoet
+- https://github.com/pankajmaurya/groovy (del)
+- https://github.com/apache/groovy
+- https://github.com/pankajmaurya/jmustache (del)
+- https://github.com/samskivert/jmustache
+- https://github.com/pankajmaurya/javapoet (del)
+- https://github.com/square/javapoet
 
 ## awesome-databases
 - https://github.com/pankajmaurya/surrealdb

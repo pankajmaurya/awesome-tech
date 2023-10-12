@@ -38,4 +38,4 @@
 
 
 ## just bookmarking
-- https://github.com/pankajmaurya/jdk
+- https://github.com/openjdk/jdk

@@ -19,12 +19,12 @@
 - https://github.com/marmelab/react-admin
 
 ## awesome microservices
-- https://github.com/pankajmaurya/jhipster-lite
-- https://github.com/pankajmaurya/full-stack-fastapi-postgresql
-- https://github.com/pankajmaurya/fastapi-react
+- https://github.com/jhipster/jhipster-lite
+- https://github.com/tiangolo/full-stack-fastapi-postgresql
+- https://github.com/Buuntu/fastapi-react
 
 ## awesome networking
-- https://github.com/pankajmaurya/netty
+- https://github.com/netty/netty
 
 ## awesome misc tech
 - https://github.com/pankajmaurya/jmh (performance benchmarking)

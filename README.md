@@ -39,6 +39,7 @@
 - https://github.com/pankajmaurya/reair
 - https://github.com/hibernate/hibernate-tools
 - https://github.com/microsoft/vscode-languageserver-node
+- https://github.com/SimGus/chrome-extension-v3-starter
 
 ## just bookmarking
 - https://github.com/openjdk/jdk
